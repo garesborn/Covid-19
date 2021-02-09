@@ -1,5 +1,5 @@
 # Covid-19
-An Exploration of Covid-19 transmission in American States and European Countries
+An Exploration of Covid-19 transmission in American States and European Countries as of August 2020
 
 
 ![download (1)](https://user-images.githubusercontent.com/65193347/107424215-650ad680-6aeb-11eb-9bf1-9f8a0dad7425.png)
